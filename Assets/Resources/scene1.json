@@ -1,0 +1,234 @@
+{
+    "frames": [
+        {
+            "time": 15.9,
+            "type": "enemy",
+	    "no": 2,
+             "sprite":19,
+	"style":1,
+	"num":1,
+	     "posx": -2.1,
+	     "posy": 5.5
+        },
+        {
+            "time": 15.3,
+            "type": "suply",
+	    "no": 0,
+	"style":0,
+	"num":1,
+             "sprite":13,
+	     "posx": -4.1,
+	     "posy": 5.4
+        },
+        {
+            "time": 15.0,
+            "type": "stone",
+	    "no": 0,
+	"style":0,
+	"num":1,
+             "sprite":12,
+	     "posx": 3.7,
+	     "posy": 5.5
+        },
+        {
+            "time": 14.0,
+            "type": "enemy",
+	    "no": 1,
+             "sprite":23,
+	"style":0,
+	"num":6,
+	     "posx": 2.1,
+	     "posy": 5.5
+        },
+        {
+            "time": 12.0,
+            "type": "suply",
+	    "no": 1,
+	"style":0,
+	"num":1,
+             "sprite":15,
+	     "posx": -4.1,
+	     "posy": 5.4
+        },
+        {
+            "time": 12,
+            "type": "enemy",
+	    "no": 4,
+             "sprite":18,
+	"style":0,
+	"num":3,
+	     "posx": 0,
+	     "posy": 5.5
+        },
+        {
+            "time": 10,
+            "type": "enemy",
+	    "no": 4,
+             "sprite":31,
+	"style":0,
+	"num":1,
+	     "posx": -4,
+	     "posy": 5.5
+        },
+        {
+            "time": 9,
+            "type": "enemy",
+	    "no": 0,
+             "sprite":30,
+	"style":0,
+	"num":5,
+	     "posx": 0,
+	     "posy": 5.5
+        },
+        {
+            "time": 8,
+            "type": "enemy",
+	    "no": 3,
+             "sprite":20,
+	"style":1,
+	"num":6,
+	     "posx": 0,
+	     "posy": 5.5
+        },
+        {
+            "time": 7.5,
+            "type": "suply",
+	    "no": 2,
+             "sprite":10,
+	"style":1,
+	"num":1,
+	     "posx": 4,
+	     "posy": 5.5
+        },
+        {
+            "time": 6,
+            "type": "enemy",
+	    "no": 1,
+             "sprite":21,
+	"style":1,
+	"num":2,
+	     "posx": -3.0,
+	     "posy": 5.5
+        },
+        {
+            "time": 5,
+            "type": "enemy",
+	    "no": 1,
+             "sprite":29,
+	"style":0,
+	"num":1,
+	     "posx": 3.0,
+	     "posy": 5.5
+        },
+        {
+            "time": 3,
+            "type": "enemy",
+	    "no": 0,
+             "sprite":25,
+	"style":1,
+	"num":5,
+	     "posx": 0,
+	     "posy": 5.5
+        },
+        {
+            "time": 1,
+            "type": "suply",
+	    "no": 0,
+             "sprite":19,
+	"style":0,
+	"num":1,
+	     "posx": 2.0,
+	     "posy": 5.5
+        },
+        {
+            "time": 0.5,
+            "type": "enemy",
+	    "no": 4,
+             "sprite":9,
+	"style":0,
+	"num":1,
+	     "posx": -2.0,
+	     "posy": 5.5
+        },
+        {
+            "time": -1,
+            "type": "enemy",
+	    "no": 3,
+             "sprite":26,
+	"style":0,
+	"num":1,
+	     "posx": 3.0,
+	     "posy": 5.5
+        },
+        {
+            "time": -2,
+            "type": "suply",
+	    "no": 1,
+             "sprite":29,
+	"style":1,
+	"num":3,
+	     "posx": 4.0,
+	     "posy": 5.5
+        },
+        {
+            "time": -3,
+            "type": "stone",
+	    "no": 0,
+             "sprite":19,
+	"style":1,
+	"num":3,
+	     "posx": 0,
+	     "posy": 5.5
+        },
+        {
+            "time": -4,
+            "type": "enemy",
+	    "no": 1,
+             "sprite":22,
+	"style":1,
+	"num":3,
+	     "posx": -3.0,
+	     "posy": 5.5
+        },
+        {
+            "time": -6,
+            "type": "enemy",
+	    "no": 4,
+             "sprite":21,
+	"style":0,
+	"num":1,
+	     "posx": 4.0,
+	     "posy": 5.5
+        },
+        {
+            "time": -7,
+            "type": "suply",
+	    "no": 0,
+             "sprite":12,
+	"style":1,
+	"num":3,
+	     "posx": 0,
+	     "posy": 5.5
+        },
+        {
+            "time": -8,
+            "type": "enemy",
+	    "no": 1,
+             "sprite":31,
+	"style":0,
+	"num":1,
+	     "posx": -3.0,
+	     "posy": 5.5
+        },
+        {
+            "time": -10,
+            "type": "enemy",
+	    "no": 0,
+             "sprite":18,
+	"style":1,
+	"num":5,
+	     "posx": -3.0,
+	     "posy": 5.5
+        }
+    ]
+}

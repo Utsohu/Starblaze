@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\homework\\unity\\Starblaze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|f:\\homework\\unity\\starblaze\\assets\\scripts\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\utilscript\\beziermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\utilscript\\beziermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\normalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\normalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\mymissle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mymissle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\myplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\myplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\readyplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\readyplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\utilscript\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\utilscript\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\boss1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\utilscript\\bezierutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\utilscript\\bezierutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\switchsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|F:\\homework\\unity\\Starblaze\\assets\\scripts\\mybullet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86438832-5E19-3706-D048-6FF40E25BEA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mybullet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameControl.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\GameControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameControl.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\GameControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameControl.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAASwDEBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:08:06.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadyPlane.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\ReadyPlane.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReadyPlane.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\ReadyPlane.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReadyPlane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:29:26.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyPlane.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\MyPlane.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MyPlane.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\MyPlane.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MyPlane.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAcwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:35:25.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:58:09.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadScene.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\LoadScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadScene.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\LoadScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:31:11.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Common.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\UtilScript\\Common.cs",
+              "RelativeDocumentMoniker": "Assets\\UtilScript\\Common.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\UtilScript\\Common.cs",
+              "RelativeToolTip": "Assets\\UtilScript\\Common.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:53:56.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mymissle.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\Mymissle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mymissle.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\Mymissle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mymissle.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:52:52.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SwitchSprite.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\SwitchSprite.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchSprite.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\SwitchSprite.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwitchSprite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:24:28.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Collision.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\Collision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collision.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\Collision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collision.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAjwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:50:55.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Boss1.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\Boss1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss1.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\Boss1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boss1.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAswB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:55:30.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NormalEnemy.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\NormalEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NormalEnemy.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\NormalEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NormalEnemy.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:34:00.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BezierMove.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\UtilScript\\BezierMove.cs",
+              "RelativeDocumentMoniker": "Assets\\UtilScript\\BezierMove.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\UtilScript\\BezierMove.cs",
+              "RelativeToolTip": "Assets\\UtilScript\\BezierMove.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwFoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:25:11.411Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Move.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Move.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\Move.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Move.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwEoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:55:49.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BezierUtils.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\UtilScript\\BezierUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\UtilScript\\BezierUtils.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\UtilScript\\BezierUtils.cs",
+              "RelativeToolTip": "Assets\\UtilScript\\BezierUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:24:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mybullet1.cs",
+              "DocumentMoniker": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\mybullet1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mybullet1.cs",
+              "ToolTip": "F:\\homework\\unity\\Starblaze\\Assets\\Scripts\\mybullet1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mybullet1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:47:36.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
